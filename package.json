@@ -1,0 +1,39 @@
+{
+  "name": "advanced-vue-hot-column-implementation-722-411",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@handsontable/vue": "5.1.0",
+    "babel-plugin-transform-decorators-legacy": "1.3.5",
+    "handsontable": "8.1.0",
+    "vue": "^2.5.22",
+    "vue-class-component": "7.1.0",
+    "vue-color": "2.7.0",
+    "vue-star-rating": "1.6.1",
+    "vuex": "3.1.1"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": ["plugin:vue/essential", "eslint:recommended"],
+    "rules": {},
+    "parserOptions": {
+      "parser": "babel-eslint"
+    }
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": ["> 1%", "last 2 versions", "not ie <= 8"],
+  "keywords": [],
+  "description": ""
+}
